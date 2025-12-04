@@ -1,4 +1,4 @@
-# CHATTER HUB | REAL TIME CHAT APPLICATION
+## CHATTER HUB | REAL TIME CHAT APPLICATION
 
 ### :open_book: OVERVIEW
 Date: March 2022\
@@ -23,7 +23,7 @@ ChatterHub/
 ### :rocket: CONFIGURATION
 **1. Clone the repository**
 ```bash
-git clone <repo link>
+git clone https://github.com/ashneetrathore/ChatterHub.git
 cd ChatterHub
 ```
 **2. Set the DSU server address**

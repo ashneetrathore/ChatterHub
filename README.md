@@ -13,12 +13,14 @@ The application follows a client-server architecture implemented in **Python**. 
 ### :open_file_folder: PROJECT FILE STRUCTURE
 ```bash
 ChatterHub/
-│── main.py              # Starts Tkinter GUI and handles main app logic
-│── profile.py           # Manages profile storage and loading
-│── ds_protocol.py       # Handles messaging protocol with JSON encoding and decoding
-│── ds_messenger.py      # Handles messaging logic
-│── README.md            # Project documentation
-│── .gitignore           # Specifies files and folders that shouldn't be included in the repo
+│── src/
+│   │── main.py              # Starts Tkinter GUI and handles main app logic
+│   │── profile.py           # Manages profile storage and loading
+│   │── ds_messenger.py      # Handles messaging logic
+│   └── ds_protocol.py       # Handles messaging protocol with JSON encoding and decoding
+│── README.md                # Project documentation
+│── .gitignore               # Specifies files and folders that shouldn't be included in the repo
+│── demo.gif                 # GIF showing the message sending demo
 ```
 
 ### :rocket: CONFIGURATION

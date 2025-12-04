@@ -27,7 +27,7 @@ ChatterHub/
 **1. Clone the repository**
 ```bash
 git clone https://github.com/ashneetrathore/ChatterHub.git
-cd ChatterHub
+cd ChatterHub/src
 ```
 **2. Set the DSU server address**
 

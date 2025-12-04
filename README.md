@@ -18,6 +18,7 @@ ChatterHub/
 │── ds_protocol.py       # Handles messaging protocol with JSON encoding and decoding
 │── ds_messenger.py      # Handles messaging logic
 │── README.md            # Project documentation
+│── .gitignore           # Specifies files and folders that shouldn't be included in the repo
 ```
 
 ### :rocket: CONFIGURATION
@@ -66,3 +67,6 @@ Finally, send messages back and forth between the users.
 13. Type a message in user1's app and click `Send`.
 14. In user2's app, the message should appear. There may be a short delay.
 15. Repeat this process in user2's app to send a message back to user1.
+
+### :film_strip: DEMO
+![](demo.gif)

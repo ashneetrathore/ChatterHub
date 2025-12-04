@@ -46,7 +46,7 @@ DSU_SERVER_PORT = 0
 python main.py
 ```
 
-### :wrench: USAGE
+### :wrench: TRY IT OUT
 To test the functionality of the app, without needing multiple devices, you can simply act as 2 different users on the same device.
 1. After running the application, click `File` in the menu bar.
 2. Select `New` to create a new user profile.

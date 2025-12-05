@@ -3,7 +3,7 @@
 ### :open_book: OVERVIEW
 Date: March 2022\
 Developer(s): Ashneet Rathore, Sachita Jnanesh Rayapati, Roselene Ujagar\
-Instructor: Mark S. Baldwin
+Based on assignment instructions from Prof. Mark S. Baldwin
 
 Chatter Hub is a distributed social messenging application that allows users to send and receive messages through a DSU server. Users can create new profiles or load existing ones stored as .dsu files, add contacts, and chat with other users in real time.
 

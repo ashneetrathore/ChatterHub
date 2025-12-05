@@ -41,7 +41,7 @@ Open ```ds_messenger.py``` and replace the placeholder at the top of the file wi
 ```bash
 DSU_SERVER_PORT = 0
 ```
-**4. Run the application with the following command**
+**4. Run the application**
 ```bash
 python main.py
 ```

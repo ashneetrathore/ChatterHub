@@ -31,13 +31,13 @@ cd ChatterHub/src
 ```
 **2. Set the DSU server address**
 
-Open ```main.py``` and replace the placeholder at the top of the file with a valid DSU server address
+Open ```main.py``` and set the `DSU_SERVER_ADD` variable the top of the file to a valid DSU server address
 ```bash
 DSU_SERVER_ADD = "YOUR SERVER ADDRESS HERE"
 ```
 **3. Set the DSU server port**
 
-Open ```ds_messenger.py``` and replace the placeholder at the top of the file with a valid DSU server port
+Open ```ds_messenger.py``` and set the `DSU_SERVER_PORT` variable the top of the file to a valid DSU server port
 ```bash
 DSU_SERVER_PORT = 0
 ```

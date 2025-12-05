@@ -20,7 +20,7 @@ ChatterHub/
 │   └── ds_protocol.py       # Handles messaging protocol with JSON encoding and decoding
 │── README.md                # Project documentation
 │── .gitignore               # Specifies files and folders that shouldn't be included in the repo
-│── demo.gif                 # GIF showing the message sending demo
+└── demo.gif                 # GIF showing the message sending demo
 ```
 
 ### :rocket: CONFIGURATION

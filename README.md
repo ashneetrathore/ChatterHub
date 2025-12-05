@@ -1,4 +1,4 @@
-## :speech_balloon: CHATTER HUB | REAL TIME CHAT APPLICATION
+## :speech_balloon: CHATTER HUB
 
 ### :open_book: OVERVIEW
 Date: March 2022\

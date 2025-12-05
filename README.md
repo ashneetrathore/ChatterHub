@@ -1,6 +1,6 @@
-## CHATTER HUB | REAL TIME CHAT APPLICATION
+## :speech_balloon: CHATTER HUB | REAL TIME CHAT APPLICATION
 
-### :speech_balloon: OVERVIEW
+### :open_book: OVERVIEW
 Date: March 2022\
 Developer(s): Ashneet Rathore, Sachita Jnanesh Rayapati, Roselene Ujagar\
 Instructor: Mark S. Baldwin

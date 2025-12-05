@@ -39,7 +39,7 @@ python main.py
 ```
 
 ### :wrench: TRY IT OUT
-To test the functionality of the app, without needing multiple devices, you can simply act as 2 different users on the same device.
+To test the functionality of the app without needing multiple devices, you can simply act as 2 different users on the same device.
 1. After running the application, click `File` in the menu bar.
 2. Select `New` to create a new user profile.
 3. When prompted, enter a username and click `OK`. For this scenario, let's say this profile username is **user1**.

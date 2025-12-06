@@ -43,7 +43,7 @@ DSU_SERVER_PORT = 5000
 ```
 
 ### :rocket: EXECUTION
-**Run the application**
+Run the application
 ```bash
 python main.py
 ```

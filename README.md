@@ -23,7 +23,7 @@ ChatterHub/
 └── demo.gif                 # GIF showing the message sending demo
 ```
 
-### :rocket: CONFIGURATION
+### :hammer: CONFIGURATION
 **1. Clone the repository**
 ```bash
 git clone https://github.com/ashneetrathore/ChatterHub.git
@@ -42,7 +42,8 @@ DSU_SERVER_ADD = "127.0.0.1"
 DSU_SERVER_PORT = 5000
 ```
 
-**4. Run the application**
+### :rocket: EXECUTION
+**Run the application**
 ```bash
 python main.py
 ```

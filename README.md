@@ -29,9 +29,18 @@ ChatterHub/
 git clone https://github.com/ashneetrathore/ChatterHub.git
 cd ChatterHub/src
 ```
-**2. Open ```main.py``` and set the `DSU_SERVER_ADD` variable the top of the file to a valid DSU server address**
 
-**3. Open ```ds_messenger.py``` and set the `DSU_SERVER_PORT` variable the top of the file to a valid DSU server port**
+**2. Open ```main.py``` and assign a valid DSU server address to `DSU_SERVER_ADD`**
+```python
+# Example assignment
+DSU_SERVER_ADD = "127.0.0.1"
+```
+
+**3. Open ```ds_messenger.py``` and assign a valid DSU server port to `DSU_SERVER_PORT`**
+```python
+# Example assignment
+DSU_SERVER_PORT = 5000
+```
 
 **4. Run the application**
 ```bash

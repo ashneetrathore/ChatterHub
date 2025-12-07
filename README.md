@@ -73,4 +73,4 @@ Finally, send messages back and forth between the users.
 15. Repeat this process in user2's app to send a message back to user1.
 
 ### :film_strip: DEMO
-![](demo.gif)
+![Demo](demo.gif)

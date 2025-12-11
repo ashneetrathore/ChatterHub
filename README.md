@@ -19,7 +19,7 @@ ChatterHub/
 │   │── ds_messenger.py      # Handles messaging logic
 │   └── ds_protocol.py       # Handles messaging protocol with JSON encoding and decoding
 │── README.md                # Project documentation
-│── .gitignore               # Specifies files and folders that shouldn't be included in the repo
+│── .gitignore               # Excludes files and folders from version control
 └── demo.gif                 # GIF showing the message sending demo
 ```
 

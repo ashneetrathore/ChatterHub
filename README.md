@@ -7,6 +7,9 @@ Based on assignment instructions from Prof. Mark S. Baldwin
 
 Chatter Hub is a distributed social messenging application that allows users to send and receive messages through a DSU server. Users can create new profiles or load existing ones stored as .dsu files, add contacts, and chat with other users in real time.
 
+## :film_strip: DEMO
+![Demo](demo.gif)
+
 ## :classical_building: ARCHITECTURE
 The application follows a client-server architecture implemented in **Python**. The frontend, built with **Tkinter**, provides an interactive GUI for composing, sending, and receiving messages. The backend uses **socket programming** to reliably send and receive messages over a TCP connection to the DSU server. All outgoing messages are encoded in **JSON** format before being sent.
 
@@ -71,6 +74,3 @@ Finally, send messages back and forth between the users.
 13. Type a message in user1's app and click `Send`.
 14. In user2's app, the message should appear. There may be a short delay.
 15. Repeat this process in user2's app to send a message back to user1.
-
-## :film_strip: DEMO
-![Demo](demo.gif)

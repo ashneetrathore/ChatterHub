@@ -1,16 +1,16 @@
-## :speech_balloon: CHATTER HUB
+# :speech_balloon: CHATTER HUB
 
-### :open_book: OVERVIEW
+## :open_book: OVERVIEW
 Date: March 2022\
 Developer(s): Ashneet Rathore, Sachita Jnanesh Rayapati, Roselene Ujagar\
 Based on assignment instructions from Prof. Mark S. Baldwin
 
 Chatter Hub is a distributed social messenging application that allows users to send and receive messages through a DSU server. Users can create new profiles or load existing ones stored as .dsu files, add contacts, and chat with other users in real time.
 
-### :classical_building: ARCHITECTURE
+## :classical_building: ARCHITECTURE
 The application follows a client-server architecture implemented in **Python**. The frontend, built with **Tkinter**, provides an interactive GUI for composing, sending, and receiving messages. The backend uses **socket programming** to reliably send and receive messages over a TCP connection to the DSU server. All outgoing messages are encoded in **JSON** format before being sent.
 
-### :open_file_folder: PROJECT FILE STRUCTURE
+## :open_file_folder: PROJECT FILE STRUCTURE
 ```bash
 ChatterHub/
 │── src/
@@ -23,7 +23,7 @@ ChatterHub/
 └── demo.gif                 # GIF showing the message sending demo
 ```
 
-### :hammer: CONFIGURATION
+## :hammer: CONFIGURATION
 **1. Clone the repository**
 ```bash
 git clone https://github.com/ashneetrathore/ChatterHub.git
@@ -42,13 +42,13 @@ DSU_SERVER_ADD = "127.0.0.1"
 DSU_SERVER_PORT = 5000
 ```
 
-### :rocket: EXECUTION
+## :rocket: EXECUTION
 Run the application
 ```bash
 python main.py
 ```
 
-### :wrench: TRY IT OUT
+## :wrench: TRY IT OUT
 To test the functionality of the app without needing multiple devices, you can simply act as 2 different users on the same device.
 1. After running the application, click `File` in the menu bar.
 2. Select `New` to create a new user profile.
@@ -72,5 +72,5 @@ Finally, send messages back and forth between the users.
 14. In user2's app, the message should appear. There may be a short delay.
 15. Repeat this process in user2's app to send a message back to user1.
 
-### :film_strip: DEMO
+## :film_strip: DEMO
 ![Demo](demo.gif)
